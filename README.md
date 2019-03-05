@@ -1,4 +1,4 @@
-# Site Mileage Breakdown
+# State Mileage Breakdown
 
 Calculates mileage by state for driving routes using Google Maps API Directions Service (https://developers.google.com/maps/documentation/javascript/directions) and PostGIS.
 
